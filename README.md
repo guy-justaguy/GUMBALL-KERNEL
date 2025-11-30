@@ -1,6 +1,6 @@
 ----THIS IS AN EXPERIMENTAL KERNEL----
 
-Soo yea.... IT'S NOT GERENTEED THAT IT WILL WORK WITH YOUR SETUP (WITHOUT THE RELEASE) and I will be releasing a ver that u can edit and DO WHAT EVER YOU LIKE (if it dosent work or its just something you like.) [also you can submit suggestions at < aydin.nawaf@gmail.com >] {dont ask abt the email} 
+Soo yea.... IT'S NOT GERENTEED THAT IT WILL WORK WITH YOUR SETUP (WITHOUT THE RELEASE) and I will be releasing a ver that u can edit and DO WHAT EVER YOU LIKE (if it dosent work or its just something you like.) [also you can submit suggestions at < aydin.nawaf@gmail.com >] {dont ask abt the email} WARNING!!!!: THIS IS 32 BIT (soon there will be 64 bit) 
 
 
 
