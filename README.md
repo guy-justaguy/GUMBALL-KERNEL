@@ -7,10 +7,16 @@ Note: clone the repo to your home folder and please be CDed into your home folde
 
 
 
-_________specs_________
+-------_specs_-------- 
 
 
 lines of code: about 56 (in kernel.C) total aprox 110
+
+
+
 number of files: 7
+
+
+
 function now: print a msg (soon there will be a bash) 
 
